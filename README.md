@@ -1,3 +1,7 @@
+# Sistema NoSQL de Gestión de Biblioteca Digital de Audiolibros (MongoDB)
+
+##
+
 Características Principales
 	• Gestión de Licencias Digitales: Control automático de la disponibilidad de licencias digitales por audiolibro (descuento al realizar préstamos activos y restitución tras devolución).
 	• Control e Integridad de Préstamos: Restricción de préstamos duplicados activos por usuario, seguimiento de estados (activo, vencido, devuelto) y detección automática de préstamos con fecha de vencimiento superada.
